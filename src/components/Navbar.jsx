@@ -70,7 +70,7 @@ const Navbar = () => {
             }}
           >
             <p className="text-white text-[20px] font-bold cursor-pointer flex">
-              Raheed&nbsp;
+              Rasheed&nbsp;
               <span className="sm:block hidden">Aldeb</span>
             </p>
           </Link>
