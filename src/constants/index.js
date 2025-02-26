@@ -19,6 +19,7 @@ import {
   masterCoders,
   dashboard,
   cinpaa_dashboard,
+  gym,
 } from "../assets";
 
 export const navLinks = [
@@ -113,6 +114,22 @@ export const projects = [
     ],
     image: cinpaa_dashboard,
     link: "http://dashboard.cinpaa.org/",
+  },
+  {
+    name: "Evogym",
+    description:
+      "dynamic and engaging fitness website designed to help users achieve their health and wellness goals. Built with React and TypeScript, FitLife offers a seamless and interactive user experience, ensuring that users can easily navigate through various features and resources.",
+    tags: [
+      { name: "React.js", color: "blue-text-gradient" },
+      { name: "typeScript", color: "pink-text-gradient" },
+      { name: "TailwindCss", color: "green-text-gradient" },
+      { name: "Framer-Motion", color: "blue-text-gradient" },
+      { name: "React-anchor-link-smooth-scroll", color: "pink-text-gradient" },
+      { name: "React-hook-form", color: "blue-text-gradient" },
+      { name: "Heroicons", color: "green-text-gradient" },
+    ],
+    image: gym,
+    link: "https://rashiedgyme.netlify.app/",
   },
   {
     name: "Shopping Cart",

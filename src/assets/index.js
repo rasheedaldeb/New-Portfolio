@@ -14,6 +14,7 @@ import e_commerce from "./projects/advanced-e-commerce.png";
 import cinpaa from "./projects/cinpaa.png";
 import dashboard from "./projects/dashboard.png";
 import cinpaa_dashboard from "./projects/cinpaa-dashboard.png";
+import gym from "./projects/gym.png";
 // Import tech logos
 import css from "./tech/CSSLogo.png";
 import git from "./tech/git.png";
@@ -49,6 +50,7 @@ export {
   cinpaa,
   dashboard,
   cinpaa_dashboard,
+  gym,
   menu,
   close,
   masterCoders,
